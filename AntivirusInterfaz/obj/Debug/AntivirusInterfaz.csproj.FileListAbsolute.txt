@@ -1,0 +1,6 @@
+D:\PUCE\Tercero\Estructuras II\AntivirusInterfaz\AntivirusInterfaz\bin\Debug\AntivirusInterfaz.exe.config
+D:\PUCE\Tercero\Estructuras II\AntivirusInterfaz\AntivirusInterfaz\bin\Debug\AntivirusInterfaz.exe
+D:\PUCE\Tercero\Estructuras II\AntivirusInterfaz\AntivirusInterfaz\bin\Debug\AntivirusInterfaz.pdb
+D:\PUCE\Tercero\Estructuras II\AntivirusInterfaz\AntivirusInterfaz\obj\Debug\AntivirusInterfaz.csprojResolveAssemblyReference.cache
+D:\PUCE\Tercero\Estructuras II\AntivirusInterfaz\AntivirusInterfaz\obj\Debug\AntivirusInterfaz.exe
+D:\PUCE\Tercero\Estructuras II\AntivirusInterfaz\AntivirusInterfaz\obj\Debug\AntivirusInterfaz.pdb
